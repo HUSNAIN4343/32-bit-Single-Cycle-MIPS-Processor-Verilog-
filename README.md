@@ -64,7 +64,7 @@ in one clock cycle. The datapath includes instruction fetch, decode, execution, 
 
 ## Screenshots
 ## Data Path
-<p align="center"> <img src="docs/rtl_diagrams/data_path_rtl.png" width="800"> </p>
+<p align="center"> <img src="docs/data_path_rtl.png" width="800"> </p>
 
 ## Execution Flow
 
@@ -110,7 +110,7 @@ Possible future improvements include:
 
 
 ## Authors
-Muzamil Rehman  
+ALI HUSNAIN
 
 ## Course
 Computer Organization and Assembly Language (COAL)
